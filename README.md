@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning In BTech In ETC
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me : gairavborkar8888@gmail.com
+- 📫 How to reach me : gauravborkar8888@gmail.com
 
 <!---
 GxBguruBori/GxBguruBori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
